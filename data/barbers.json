@@ -1,0 +1,107 @@
+{
+  "pageTitle": "Barbershops in Columbia, SC | ColumbiaBarbers.com",
+  "headerName": "Barbershops in Columbia, SC",
+  "directoryDescription": "Browse barbershops in the Columbia, SC area.",
+  "recommendedTitle": "",
+  "listTitle": "Barbershops",
+  "footerBrand": "BarbersinColumbia.com",
+  "footerNote": "Hassan Network 2026",
+  "recommended": [],
+  "businesses": [
+    {
+      "name": "GQ Barbershop",
+      "address": "117 State Street, West Columbia, SC 29169",
+      "phone": "(803) 504-0053",
+      "phoneRaw": "+18035040053",
+      "email": "",
+      "website": "https://www.gqbarber.com/",
+      "websiteLabel": "gqbarber.com",
+      "image": "barbers/gq.webp"
+    },
+    {
+      "name": "Southern Gentleman's Barbering Co. (Five Points)",
+      "address": "613 Harden Street, Columbia, SC 29205",
+      "phone": "(803) 569-6383",
+      "phoneRaw": "+18035696383",
+      "email": "",
+      "website": "https://www.southernbarbering.com/",
+      "websiteLabel": "southernbarbering.com",
+      "image": "barbers/southbar.webp"
+    },
+    {
+      "name": "Regal Lounge | Men's Barber & Spa",
+      "address": "1217 Bull Street, Columbia, SC 29201",
+      "phone": "(803) 834-6369",
+      "phoneRaw": "+18038346369",
+      "email": "",
+      "website": "https://regallounge.com/",
+      "websiteLabel": "regallounge.com",
+      "image": "barbers/regal.jpg"
+    },
+    {
+      "name": "Fade Fellas Barbering Lounge",
+      "address": "6420 Garners Ferry Rd Suite N, Columbia, SC 29209",
+      "phone": "(803) 673-2829",
+      "phoneRaw": "+18036732829",
+      "email": "",
+      "website": "https://www.fadefellasbarberinglounge.com/",
+      "websiteLabel": "fadefellasbarberinglounge.com",
+      "image": "barbers/fade.jpg"
+    },
+    {
+      "name": "No Grease Barbershop (Columbia)",
+      "address": "929 Gervais Street, Suite B, Columbia, SC 29201",
+      "phone": "(803) 834-3674",
+      "phoneRaw": "+18038343674",
+      "email": "",
+      "website": "https://nogrease.com/",
+      "websiteLabel": "nogrease.com",
+      "image": "barbers/nogrease.jpg"
+    },
+    {
+      "name": "Carolina Barber Shop",
+      "address": "1332 Main Street Ste 110, Columbia, SC 29201",
+      "phone": "(803) 799-3851",
+      "phoneRaw": "+18037993851",
+      "email": "carolinabarbershop2021@gmail.com",
+      "website": "https://carolinabarbershop.wixsite.com/mysite",
+      "websiteLabel": "carolinabarbershop.wixsite.com",
+      "image": "barbers/carolinabarb.avif"
+    },
+    {
+      "name": "Gamble's AllStar Barbers Lounge",
+      "address": "1055 Sparkleberry Lane Ext., Suite P, Columbia, SC 29223",
+      "phone": "(803) 612-0353",
+      "phoneRaw": "+18036120353",
+      "email": "gambles0574@gmail.com",
+      "website": "https://gambles-all-star-barbers-lounge.square.site/",
+      "websiteLabel": "gambles-all-star-barbers-lounge.square.site",
+      "image": "barbers/gamblehair.png"
+    },
+    {
+      "name": "Legendary Cutz",
+      "address": "6012 North Main Street, Columbia, SC 29203",
+      "phone": "(803) 467-7881",
+      "phoneRaw": "+18034677881",
+      "email": "",
+      "website": "https://legendary-cutz.square.site/",
+      "websiteLabel": "legendary-cutz.square.site",
+      "image": "barbers/legendhair.png"
+    },
+    {
+      "name": "Circa Barbershop",
+      "address": "1332 Main St, Columbia, SC 29201",
+      "phone": "(803) 933-2075",
+      "phoneRaw": "+18039332075",
+      "email": "",
+      "website": "https://www.circabarbershop.com/",
+      "websiteLabel": "circabarbershop.com",
+      "image": "barbers/circa.webp"
+    }
+  ]
+}
+
+
+
+
+

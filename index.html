@@ -1,66 +1,83 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Directory</title>
-  <meta name="description" content="Explore trusted local businesses in your area. Browse recommended spots with contact details, addresses, and websites.">
-  <meta name="theme-color" content="#ffffff">
+  <title>Barbers in Columbia SC | Find Local Columbia Barbershops</title>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <meta
+    name="description"
+    content="Find barbers in Columbia SC. Browse local Columbia barbershops, haircut services, grooming options, hours, phone numbers, and shop details."
+  />
 
-  <link rel="stylesheet" href="styles.css">
+  <meta
+    name="keywords"
+    content="barbers in Columbia SC, Columbia SC barbers, barbershops in Columbia SC, barber near me Columbia SC, haircuts Columbia SC, local barbers Columbia"
+  />
+
+  <meta name="author" content="Barbers in Columbia" />
+  <meta name="robots" content="index, follow" />
+
+  <meta property="og:title" content="Barbers in Columbia SC" />
+  <meta property="og:description" content="Browse local barbershops in Columbia, South Carolina." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://barbersincolumbia.com" />
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+  <link rel="stylesheet" href="styles.css" />
 </head>
 
-<body data-directory="">
-  <header class="header">
-    <div class="wrap header-inner">
-      <div class="header-title" id="headerTitle">Local Directory</div>
-      <button class="btn btn-primary" id="listBusinessBtn" type="button">List your business</button>
-    </div>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <a href="index.html" class="logo">Barbers in Columbia</a>
 
-    <section class="directory-desc">
-      <div class="wrap">
-        <p id="directoryDesc" class="directory-text"></p>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="#barbershops">Barbershops</a>
+        <a href="#about">About</a>
       </div>
-    </section>
+    </nav>
   </header>
 
   <main>
+    <section class="hero">
+      <p class="eyebrow">Columbia, South Carolina</p>
+      <h1>Find Barbers in Columbia SC</h1>
+      <p>
+        Browse local barbershops around Columbia for haircuts, fades, beard trims,
+        grooming services, and more.
+      </p>
+    </section>
 
-    <section class="section section-tight" id="listings" aria-labelledby="listTitle">
-      <div class="wrap">
-        <div class="section-head">
-          <h2 id="listTitle">Businesses</h2>
-        </div>
-        <div class="list" id="businessList"></div>
+    <section id="barbershops" class="directory-section">
+      <div class="section-heading">
+        <h2>Featured Columbia Barbershops</h2>
+        <p>Sample listings shown for layout testing. Real shops can be added later.</p>
       </div>
+
+      <div id="barberGrid" class="barber-grid"></div>
+    </section>
+
+    <section id="about" class="about-section">
+      <h2>About Barbers in Columbia</h2>
+      <p>
+        Barbers in Columbia helps those in need of a haircut or grooming service find local barbershops in Columbia, South Carolina. 
+        Browse through our directory of barbershops to find the right one for your needs.  
+      </p>
     </section>
   </main>
 
   <footer class="footer">
-    <div class="wrap footer-inner">
-      <div class="foot-left">
-        <div class="foot-title" id="footerBrand">Directory</div>
-        <div class="muted" id="footerNote">Listings shown only with business permission.</div>
-      </div>
-
-      <div class="foot-right">
-        <a class="footlink" href="#">Home</a>
-        <a class="footlink" href="#listings">Listings</a>
-      </div>
-    </div>
+    <p>&copy; <span id="year"></span> Barbers in Columbia. All rights reserved.</p>
   </footer>
 
   <script src="app.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
-
 </body>
 </html>
+
 
 
 

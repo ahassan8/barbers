@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Capital City Cuts",
+    "area": "Downtown Columbia",
+    "phone": "(803) 555-1042",
+    "hours": "Mon-Sat: 9 AM - 6 PM",
+    "description": "A clean local barbershop offering classic cuts, fades, and beard trims.",
+    "specialty": "Fades & Beard Trims"
+  },
+  {
+    "name": "Main Street Barber Lounge",
+    "area": "Main Street District",
+    "phone": "(803) 555-2187",
+    "hours": "Tue-Sat: 10 AM - 7 PM",
+    "description": "Modern barber lounge focused on sharp cuts and a comfortable experience.",
+    "specialty": "Modern Haircuts"
+  },
+  {
+    "name": "Palmetto Fade Studio",
+    "area": "Northeast Columbia",
+    "phone": "(803) 555-7320",
+    "hours": "Mon-Fri: 9 AM - 5 PM",
+    "description": "Neighborhood barbershop offering quick cuts, lineups, and grooming services.",
+    "specialty": "Lineups"
+  },
+  {
+    "name": "Garnet & Black Barbers",
+    "area": "Five Points",
+    "phone": "(803) 555-9031",
+    "hours": "Mon-Sat: 8 AM - 6 PM",
+    "description": "Local shop for students, professionals, and anyone needing a fresh cut.",
+    "specialty": "Student Cuts"
+  },
+  {
+    "name": "Broad River Barber Co.",
+    "area": "Broad River Road",
+    "phone": "(803) 555-4488",
+    "hours": "Tue-Sun: 10 AM - 6 PM",
+    "description": "Simple barbershop offering affordable haircuts and beard grooming.",
+    "specialty": "Affordable Cuts"
+  },
+  {
+    "name": "Forest Drive Grooming",
+    "area": "Forest Acres",
+    "phone": "(803) 555-6614",
+    "hours": "Mon-Sat: 9 AM - 7 PM",
+    "description": "Clean and professional grooming shop for classic and modern styles.",
+    "specialty": "Classic Cuts"
+  }
+]
